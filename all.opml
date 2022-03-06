@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of 1362449059 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="酷壳 - CoolShell.cn" title="酷壳 - CoolShell.cn" type="rss" xmlUrl="https://coolshell.cn/feed" htmlUrl="http://www.google.com/reader/view/feed%2Fhttps%3A%2F%2Fcoolshell.cn%2Ffeed"/>
+	<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+	<outline text="刘未鹏 Mind Hacks – 思维改变生活" title="刘未鹏 Mind Hacks – 思维改变生活" type="rss" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn/"/>
+  </body>
+</opml>
